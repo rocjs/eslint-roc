@@ -1,0 +1,7 @@
+{
+  "name": "eslint-roc",
+  "description": "Modules that makes the integration between Roc and ESlint easier",
+  "private": true,
+  "author": "Gustaf Dalemar",
+  "license": "MIT"
+}

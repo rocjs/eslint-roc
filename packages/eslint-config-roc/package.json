@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-roc",
+  "version": "0.1.0",
+  "description": "Roc specific ESLint configuration",
+  "main": "index.js",
+  "author": "Gustaf Dalemar",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-import-resolver-roc": "^0.1.0",
+    "roc": "^1.0.0-rc.20"
+  }
+}

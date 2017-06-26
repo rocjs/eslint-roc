@@ -1,0 +1,12 @@
+{
+  "name": "eslint-import-resolver-roc",
+  "version": "0.1.0",
+  "description": "Roc resolver for eslint-plugin-import",
+  "main": "index.js",
+  "author": "Gustaf Dalemar",
+  "license": "MIT",
+  "dependencies": {
+    "resolve": "^1.3.3",
+    "roc": "^1.0.0-rc.20"
+  }
+}
